@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First time user but hope to master the language of code... eventually... 
